@@ -1,0 +1,1 @@
+El programa permite ingresar un texto, ya sea por consola o a traves de un archivo y luego buscar un patron ingresado por el usuario y reemplazar todas sus apariciones por otro patron tambien ingresado por el usuario.
